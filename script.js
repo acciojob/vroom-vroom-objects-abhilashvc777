@@ -56,5 +56,3 @@ SportsCar.prototype.constructor = SportsCar
 SportsCar.prototype.getTopSpeed=function(){
 	return this.topSpeed;
 }
-const myCar = new Car("Hyundai",2016)
-console.log(myCar)
